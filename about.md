@@ -1,6 +1,4 @@
-Describe your content in this file.
+Swift Quick Start
 
-- Requirements
-- What will I learn?
-- Technologies
-- etc
+- How to create a playground in Swift?
+- End Result
