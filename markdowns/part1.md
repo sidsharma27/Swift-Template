@@ -10,12 +10,11 @@
             ```
             <li>Create a new folder (ex: helloWorld)</li>
         </ol>
-    <br/><br/>
+    <br/>
     <h2><li>In Text Editor:</li></h2>
         <ol>
             <li>Add new file in helloWorld folder called: run.sh</li>
             ```
-            //Using Swift Package Manager
             swift package init
             swift build
             swift test
