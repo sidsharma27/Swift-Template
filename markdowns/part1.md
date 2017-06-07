@@ -1,7 +1,7 @@
 <h1>Swift Quick Start</h1>
 
 <ul>
-    <h2><li>Create a new playground on tech.io</li></h2>
+    ## *Create a new playground on tech.io
     <h2><li>In terminal:</li></h2>
         <ol>
             <li>Clone it</li>
@@ -16,8 +16,8 @@
             <li>Add new file in helloWorld folder called: run.sh</li>
             ```
             swift package init
-            \n swift build
-            \n swift test
+            swift build
+            swift test
             ```
             <li>In the Markdowns folder add this stub to the .md file</li>
             ```
