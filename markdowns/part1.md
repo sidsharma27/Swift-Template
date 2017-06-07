@@ -6,15 +6,15 @@
         <ol>
             <li>Clone it</li>
             ```
-              git clone git@ssh.git.tech.io:CG000000/playground-name.git
+            git clone git@ssh.git.tech.io:CG000000/playground-name.git
             ```
             <li>Create a new folder (ex: helloWorld)</li>
             <li>Then:</li>
             ```
-              //Using Swift Package Manager
-              swift package init
-              swift build
-              swift test
+            //Using Swift Package Manager
+            swift package init
+            swift build
+            swift test
             ```
         </ul>
     <li>In Text Editor:</li>
