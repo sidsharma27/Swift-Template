@@ -5,19 +5,22 @@
     <li>In terminal:</li>
         <ol>
             <li>Clone it</li>
-            ```
+            ```bash
             git clone git@ssh.git.tech.io:CG000000/playground-name.git
             ```
-            <li>New folder (helloWorld)</li>
-            <li>swift package init</li>
-            <li>swift build</li>
-            <li>swift test</li>
+            <li>Create a new folder (ex: helloWorld)</li>
+            <li>Then:</li>
+            ```bash
+                swift package init
+                swift build
+                swift test
+            ```
         </ul>
     <li>In Text Editor:</li>
         <ul>
             <li>In the Markdowns folder add this stub to the .md file</li>
         </ul>
-        ```
+        ```bash
         [Add 'World' to match the test case]({"stubs": ["Sources/FILENAME.swift"], "command": "/bin/bash run.sh"})
         ```        
 </ul>
