@@ -16,8 +16,8 @@
             <li>Add new file in helloWorld folder called: run.sh</li>
             ```
             swift package init
-            swift build
-            swift test
+            \n swift build
+            \n swift test
             ```
             <li>In the Markdowns folder add this stub to the .md file</li>
             ```
