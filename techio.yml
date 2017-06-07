@@ -4,8 +4,6 @@ plan:
     statement: markdowns/part1.md
   - title: Hello World Test
     statement: markdowns/part2.md
-  - title: Welcome
-    statement: markdowns/welcome.md
 projects:
   first-project:
     root: /helloWorld
