@@ -11,4 +11,4 @@ projects:
       name: swift
       version: 3.1.0
       logging:
-        driver: syslog
+        driver: none
