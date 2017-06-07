@@ -1,10 +1,10 @@
 <h1>Swift Quick Start</h1>
 
-<ol>
+<ul>
     <li>Create a new playground on tech.io</li>
     <li>In terminal:</li>
-        <ul name = "ul">
-            <li for = "ul">Clone it</li>
+        <ol>
+            <li>Clone it</li>
             ```
             git clone git@ssh.git.tech.io:CG000000/playground-name.git
             ```
@@ -20,7 +20,7 @@
         ```
         [Add 'World' to match the test case]({"stubs": ["Sources/FILENAME.swift"], "command": "/bin/bash run.sh"})
         ```        
-</ol>
+</ul>
 
 
 Text Editor: Markdowns 
