@@ -1,8 +1,8 @@
 <h1>Swift Quick Start</h1>
 
 <ul>
-    <h2><li>Create a new playground on tech.io</li><h2>
-    <h2><li>In terminal:</li><h2>
+    <h2><li>Create a new playground on tech.io</li></h2>
+    <h2><li>In terminal:</li></h2>
         <ol>
             <li>Clone it</li>
             ```
