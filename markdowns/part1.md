@@ -15,7 +15,7 @@
             <li>In the Markdowns folder add this stub to the .md file</li>
         </ul>
         ```
-        @[Add 'World' to match the test case]({"stubs": ["Sources/helloWorld.swift"], "command": "/bin/bash run.sh"})
+        [Add 'World' to match the test case]({"stubs": ["Sources/FILENAME.swift"], "command": "/bin/bash run.sh"})
         ```        
 </ol>
 
