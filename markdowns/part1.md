@@ -1,8 +1,8 @@
 <h1>Swift Quick Start</h1>
 
 <ul>
-    <li>Create a new playground on tech.io</li>
-    <li>In terminal:</li>
+    <h2><li>Create a new playground on tech.io</li><h2>
+    <h2><li>In terminal:</li><h2>
         <ol>
             <li>Clone it</li>
             ```
@@ -17,6 +17,7 @@
             swift test
             ```
         </ul>
+    <br>
     <li>In Text Editor:</li>
         <ul>
             <li>In the Markdowns folder add this stub to the .md file</li>
