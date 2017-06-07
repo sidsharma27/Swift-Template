@@ -1,10 +1,13 @@
 <h1>Swift Quick Start</h1>
 
 <ol>
-    <li>New playground on tech.io</li>
+    <li>Create a new playground on tech.io</li>
     <li>In terminal:</li>
         <ul>
             <li>Clone it</li>
+            ```
+            git clone git@ssh.git.tech.io:CG000000/playground-name.git
+            ```
             <li>New folder (helloWorld)</li>
             <li>swift package init</li>
             <li>swift build</li>
