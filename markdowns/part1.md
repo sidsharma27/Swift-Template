@@ -3,8 +3,8 @@
 <ol>
     <li>Create a new playground on tech.io</li>
     <li>In terminal:</li>
-        <ul>
-            <li>Clone it</li>
+        <ul name = "ul">
+            <li for = "ul">Clone it</li>
             ```
             git clone git@ssh.git.tech.io:CG000000/playground-name.git
             ```
