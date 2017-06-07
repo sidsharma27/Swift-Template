@@ -22,7 +22,7 @@
             ```
             <li>In the Markdowns folder add this stub to the .md file</li>
             ```
-            [Add 'World' to match the test case]({"stubs": ["Sources/FILENAME.swift"], "command": "/bin/bash run.sh"})
+            [Add 'World' to match the test case]({"stubs": ["Sources/folderName.swift"], "command": "/bin/bash run.sh"})
             ```
             <li>In the techio.yml file, add this to the bottom:</li>
             ```
