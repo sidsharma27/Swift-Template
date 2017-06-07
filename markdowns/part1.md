@@ -5,7 +5,7 @@
     <li>In terminal:</li>
         <ol>
             <li>Clone it</li>
-            ```bash
+            ```
             git clone git@ssh.git.tech.io:CG000000/playground-name.git
             ```
             <li>Create a new folder (ex: helloWorld)</li>
@@ -20,7 +20,7 @@
         <ul>
             <li>In the Markdowns folder add this stub to the .md file</li>
         </ul>
-        ```bash
+        ```
         [Add 'World' to match the test case]({"stubs": ["Sources/FILENAME.swift"], "command": "/bin/bash run.sh"})
         ```        
 </ul>
