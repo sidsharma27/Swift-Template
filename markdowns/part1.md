@@ -1,18 +1,18 @@
 <h1>Swift Quick Start</h1>
 
-<ol>
-    <h2><li>First, create a new playground on tech.io</li></h2>
+<ul>
+    <h2><li>First, Create a new playground on tech.io</li></h2>
     <h2><li>In terminal:</li></h2>
-        <ul>
+        <ol>
             <li>Clone it</li>
             ```
             git clone git@ssh.git.tech.io:CG000000/playground-name.git
             ```
             <li>Create a new folder (ex: helloWorld)</li>
-        </ul>
-    <br/>
+        </ol>
+    <br/><br/>
     <h2><li>In Text Editor:</li></h2>
-        <ul>
+        <ol>
             <li>Add new file in helloWorld folder called: run.sh</li>
             ```
             //Using Swift Package Manager 
@@ -33,12 +33,12 @@
       		    name: swift
       			version: 3.1.0
             ```
-        </ul>
-    <br/>
+        </ol>
+    <br/><br/>
     <h2><li>Back in the terminal:</li></h2>
-        <ul>
+        <ol>
             <li>git add .</li>
             <li>git commit -m "Initial Commit"</li>
             <li>git push origin master</li>
-        </ul>
-</ol>
+        </ol>
+</ul>
