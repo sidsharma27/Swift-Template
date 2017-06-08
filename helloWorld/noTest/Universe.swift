@@ -17,4 +17,7 @@ class UniverseTest {
 			assertionFailure("A person's age can't be less than zero. Incorrect! Hint 💡: Did you properly accumulate all stars into 'totalStars'? 🤔")
 		}
 	}
+	init() {
+		main()
+	}
 }
