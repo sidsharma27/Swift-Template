@@ -7,7 +7,7 @@ class Universe {
 	    return totalStars;
     }
 	func main() {
-		if (Universe.countAllStars(galaxies: 2, 3) == 5) && (Universe.countAllStars(galaxies: 9, -3) == 6) {
+		if (countAllStars(galaxies: 2, 3) == 5) && (countAllStars(galaxies: 9, -3) == 6) {
     		print("Kudos 🌟")
 		} else {
 			assertionFailure("A person's age can't be less than zero. Incorrect! Hint 💡: Did you properly accumulate all stars into 'totalStars'? 🤔")
