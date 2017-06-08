@@ -1,1 +1,1 @@
-swift Universe.swift
+swift noTest/Universe.swift
