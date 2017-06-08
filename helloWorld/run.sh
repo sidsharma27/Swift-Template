@@ -1,2 +1,1 @@
-swiftc Universe.swift
-./Universe
+swift Universe.swift
