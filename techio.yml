@@ -8,7 +8,7 @@ projects:
   first-project:
     root: /helloWorld
     runner:
-      name: swift
-      version: 3.1.0
+      name: codewars/swift-runner
+      version: latest
       logging:
         log-driver: none
