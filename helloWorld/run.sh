@@ -1,3 +1,2 @@
-swift package --version
-swift build
-swift test
+swiftc Universe.swift
+./Universe
